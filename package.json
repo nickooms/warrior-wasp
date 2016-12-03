@@ -1,0 +1,20 @@
+{
+  "name": "warrior-wasp",
+  "version": "1.0.0",
+  "description": "Warrior Wasp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickooms/warrior-wasp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickooms/warrior-wasp/issues"
+  },
+  "homepage": "https://github.com/nickooms/warrior-wasp#readme"
+}
